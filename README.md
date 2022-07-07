@@ -4,3 +4,7 @@
 <img align="center" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="210" width="340"/>
 
 ---
+
+### __*Sobre;*__
+ _Me chamo Jonas, atualmente tenho 19 anos de idade
+ e estou estudando lingugens de programação._
