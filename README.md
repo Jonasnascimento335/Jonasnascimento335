@@ -7,4 +7,4 @@
 
 ### __*Sobre mim;*__
 _Me chamo Jonas, atualmente tenho 19 anos de idade
-e estou em período de aprendizado sobre Front-end!_
+e estou em período de aprendizado em front-End!_
