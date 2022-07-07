@@ -7,4 +7,4 @@
 
 ### __*Sobre;*__
  _Me chamo Jonas, atualmente tenho 19 anos de idade
- e estou estudando sobre as mais diversas de programação e desenvolvimento Web._
+ e estou estudando sobre as mais diversas linguagens de programação e desenvolvimento Web!_
